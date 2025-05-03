@@ -1,5 +1,6 @@
 # Medical-Project-Diabetes
-![Uploading HR_dashboard.jpg…]()
+
+![HR Dashboard](HR_dashboard.jpg)
 
 ## Diabetes Prediction using Machine Learning Models (RandomForest, SVM, etc.)
 
