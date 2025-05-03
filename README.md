@@ -1,7 +1,7 @@
 # Medical-Project-Diabetes
 
-![HR Dashboard](https://example.com/path/to/HR_dashboard.jpg)
 
+![واجهة التطبيق](https://raw.githubusercontent.com/Taqwashorman/Medical-Project-Diabetes_Streamlit_App/main/Streamlit_App.jpg)
 
 ## Diabetes Prediction using Machine Learning Models (RandomForest, SVM, etc.)
 
